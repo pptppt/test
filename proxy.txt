@@ -1,1 +1,8 @@
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com

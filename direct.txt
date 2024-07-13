@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,sinaimg.cn

@@ -33,3 +33,5 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,ddimg.mobi
+DOMAIN-SUFFIX,ddxq.mobi

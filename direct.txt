@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,qinlinkeji.com
+DOMAIN-SUFFIX,bl.com
+DOMAIN-SUFFIX,iblimg.com

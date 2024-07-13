@@ -38,3 +38,4 @@ DOMAIN-SUFFIX,ddimg.mobi
 DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,yuewen.com
+DOMAIN-SUFFIX,qinlinkeji.com

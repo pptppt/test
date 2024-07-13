@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com

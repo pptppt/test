@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.cn

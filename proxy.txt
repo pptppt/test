@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ptt.cc
+DOMAIN,raw.githubusercontent.com

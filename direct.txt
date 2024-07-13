@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,tencentcs.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com
@@ -25,3 +26,6 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,bilivideo.cn

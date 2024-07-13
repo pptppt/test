@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,taobao.com

@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,tencentcs.com
+DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com

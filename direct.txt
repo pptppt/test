@@ -10,7 +10,12 @@ DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com

@@ -31,3 +31,5 @@ DOMAIN-SUFFIX,caiyuncdn.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com

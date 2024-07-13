@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,126.net

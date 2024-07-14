@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,meituan.com

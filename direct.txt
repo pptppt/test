@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com

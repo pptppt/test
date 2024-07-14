@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,qinlinkeji.com
 DOMAIN-SUFFIX,bl.com
 DOMAIN-SUFFIX,iblimg.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,qunar.com

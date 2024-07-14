@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,dl.google.com
-DOMAIN-SUFFIX,fonts.googleapis.com
-DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN,dl.google.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,www.gstatic.com
+DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.cn

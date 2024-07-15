@@ -58,3 +58,4 @@ DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,smzdm.com

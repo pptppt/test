@@ -61,5 +61,8 @@ DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,bdxiguaimg.com
+DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,zijieapi.com

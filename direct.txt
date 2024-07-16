@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,tencentcs.com
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qlogo.cn

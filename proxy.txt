@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagram.com

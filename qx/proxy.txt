@@ -17,3 +17,5 @@ host-suffix,goo.gl,proxy
 host-suffix,twimg.com,proxy
 host-suffix,x.com,proxy
 host-suffix,ptt.cc,proxy
+host-suffix,facebook.com,proxy
+host-suffix,instagram.com,proxy

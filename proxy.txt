@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,twitter.com

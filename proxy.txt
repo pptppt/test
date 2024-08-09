@@ -20,4 +20,5 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,lihkg.com

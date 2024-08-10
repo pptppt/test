@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,lihkg.com
+DOMAIN-SUFFIX,wikipedia.org

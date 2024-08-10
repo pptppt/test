@@ -18,7 +18,11 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,lihkg.com

@@ -69,3 +69,4 @@ DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,hellobike.com
+DOMAIN-SUFFIX,amazon.cn

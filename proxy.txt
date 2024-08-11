@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,6park.com
+DOMAIN-SUFFIX,6parkbbs.com
+DOMAIN-SUFFIX,cool18.com

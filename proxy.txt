@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redd.it

@@ -2,7 +2,6 @@ host,dl.google.com,direct
 host,fonts.googleapis.com,direct
 host,fonts.gstatic.com,direct
 host,www.gstatic.com,direct
-host,mtalk.google.com,direct
 host-suffix,qq.com,direct
 host-suffix,gtimg.com,direct
 host-suffix,gtimg.cn,direct

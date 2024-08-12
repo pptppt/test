@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,6parkbbs.com
 DOMAIN-SUFFIX,cool18.com
 DOMAIN-SUFFIX,com.tw
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,docker.com

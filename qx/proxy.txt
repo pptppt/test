@@ -39,3 +39,4 @@ host-suffix,6parkbbs.com,proxy
 host-suffix,cool18.com,proxy
 host-suffix,com.tw,proxy
 host-suffix,imgur.com,proxy
+host-suffix,docker.com,proxy

@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,lih.kg
+DOMAIN-SUFFIX,na.cx
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net

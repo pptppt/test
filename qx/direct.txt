@@ -66,3 +66,8 @@ host-suffix,douyinvod.com,direct
 host-suffix,douyinpic.com,direct
 host-suffix,byteimg.com,direct
 host-suffix,zijieapi.com,direct
+host-suffix,feishu.cn,direct
+host-suffix,hellobike.com,direct
+host-suffix,amazon.cn,direct
+host-suffix,cctv.com,direct
+host-suffix,cctv.cn,direct

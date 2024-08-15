@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,6park.com
 DOMAIN-SUFFIX,6parkbbs.com
 DOMAIN-SUFFIX,cool18.com
 DOMAIN-SUFFIX,xbookcn.net
+DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,com.tw
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,docker.com

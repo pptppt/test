@@ -44,3 +44,5 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com

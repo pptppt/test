@@ -46,4 +46,5 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,brave.com

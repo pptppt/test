@@ -37,6 +37,14 @@ host-suffix,redd.it,proxy
 host-suffix,6park.com,proxy
 host-suffix,6parkbbs.com,proxy
 host-suffix,cool18.com,proxy
+host-suffix,xbookcn.net,proxy
+host-suffix,t66y.com,proxy
 host-suffix,com.tw,proxy
 host-suffix,imgur.com,proxy
 host-suffix,docker.com,proxy
+host-suffix,proton.me,proxy
+host-suffix,blogger.com,proxy
+host-suffix,yahoo.com,proxy
+host-suffix,yimg.com,proxy
+host-suffix,rfi.fr,proxy
+host-suffix,brave.com,proxy

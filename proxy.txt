@@ -48,3 +48,5 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me

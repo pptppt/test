@@ -48,4 +48,6 @@ host-suffix,yahoo.com,proxy
 host-suffix,yimg.com,proxy
 host-suffix,rfi.fr,proxy
 host-suffix,brave.com,proxy
+host-suffix,telegram.org,proxy
+host-suffix,t.me,proxy
 host-suffix,quantumult.app,proxy

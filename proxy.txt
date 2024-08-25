@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,na.cx
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com

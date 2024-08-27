@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube.hk
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,v2ex.com

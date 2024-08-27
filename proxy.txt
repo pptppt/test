@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtu.hk
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,twimg.com

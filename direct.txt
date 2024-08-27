@@ -1,6 +1,7 @@
 DOMAIN,dl.google.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,ssl.gstatic.com
 DOMAIN,www.gstatic.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com

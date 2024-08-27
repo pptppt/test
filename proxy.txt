@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,na.cx
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net

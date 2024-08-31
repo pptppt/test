@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,quantumult.app

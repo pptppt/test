@@ -67,3 +67,4 @@ DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.social
